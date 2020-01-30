@@ -1,0 +1,3 @@
+Shift + right mouse click:
+	-> cmd here:
+	-> npm start
